@@ -1,0 +1,69 @@
+Fire:
+    Path: data/se/EXPLOSION_Short_Smooth_Brighter_Kickback_mono.wav
+    Vol: 0.3
+Hit:
+    Path: data/se/THUD_Medium_01_mono.wav
+Walk:
+    Path: data/se/FOOTSTEP_Trainers_Asphalt_Run_RR8_mono.wav
+Attack:
+    Path: data/se/GOLF_Swing_Wood_Miss_Above_Ball_mono.wav
+Put: ~
+LevelUp:
+    Path: data/se/MAGIC_SPELL_Attacking_Climbing_Bells_stereo.wav
+MsgBox: ~
+RisingSparkle:
+    Path: data/se/UI_Beep_Double_Quick_Bright_stereo.wav
+    Vol: 0.5
+Death:
+    Path: data/se/THUD_Smooth_01_mono.wav
+WallBroken:
+    Path: data/se/EXPLOSION_Subtle_Poof_01_stereo.wav
+    Vol: 0.5
+WallBrokenBush:
+    Path: data/se/GOLF_Swing_Iron_Rough_Miss_Next_to_Ball_mono.wav
+    Vol: 0.5
+DoorOpen:
+    Path: data/se/DOOR_Metal_Door_Locked_Try_Open_Slight_Gap_stereo.wav
+ItemFound:
+    Path: data/se/UI_Beep_Double_Quick_Smooth_stereo.wav
+Arrow:
+    Path: data/se/FLYBY_Missile_01_Fast_mono.wav
+ChestOpen:
+    Path: data/se/IMPACT_Concrete_Slab_on_Concrete_Slab_Deep_mono.wav
+Demon:
+    Path: data/se/MONSTER_Breath_01_mono.wav
+Warp:
+    Path: data/se/MAGIC_SPELL_Deep_Tone_Bubbling_Zaps_stereo.wav
+    Vol: 0.7
+WarpEnd:
+    Path: data/se/SPACE_SciFi_PassBy_Sweep_Energy_02_mono.wav
+    Vol: 0.7
+Explosion:
+    Path: data/se/EXPLOSION_Medium_Sharp_with_Echo_stereo.wav
+    Vol: 0.7
+Stone:
+    Path: data/se/EXPLOSION_Subtle_Poof_01_stereo.wav
+UiMove:
+    Path: data/se/BUTTON_Light_Switch_03_stereo.wav
+    Vol: 0.5
+UiOpen:
+    Path: data/se/IMPACT_Bullet_Metal_02_mono.wav
+    Vol: 0.5
+UiClose:
+    Path: data/se/IMPACT_Bullet_Metal_02_mono.wav
+    Vol: 0.5
+UiNext:
+    Path: data/se/IMPACT_Bullet_Metal_02_mono.wav
+    Vol: 0.5
+UiBack:
+    Path: data/se/IMPACT_Bullet_Metal_02_mono.wav
+    Vol: 0.5
+DchipMove:
+    Path: data/se/WHOOSH_Fast_02_mono.wav
+    Vol: 0.25
+DchipSelected:
+    Path: data/se/UI_Animate_Stutter_Beep_Appear_stereo.wav
+    Vol: 0.5
+DchipSwapped:
+    Path: data/se/UI_Beep_Double_Quick_Smooth_stereo.wav
+    Vol: 0.5

@@ -1,0 +1,5 @@
+type: 2
+hudVisible: false
+noAttack: true
+itemLottery: ~
+role: ["TutorialA", "Summary"]

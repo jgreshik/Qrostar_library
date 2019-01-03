@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<deflist>
+  <def id="1" name="Stone" defense="30"/>
+  <def id="2" name="Tree" defense="30"/>
+  <def id="3" name="Rock" defense="30"/>
+  <def id="4" name="Bush" defense="1"/>
+</deflist>
+

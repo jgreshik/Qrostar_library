@@ -1,0 +1,14 @@
+Flag:
+  GuideA_Done: false
+  GuideB_Done: false
+  GuideC_Done: false
+  Crystal_Unlocked: false
+  SecretKey_Unlocked: false
+  NineStones_Unlocked: false
+  Saw_Demon: false
+Snd:
+  SeVol: 10
+  SeMute: false
+  MusicVol: 10
+  MusicMute: false
+Lang: en

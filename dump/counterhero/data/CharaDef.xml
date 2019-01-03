@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<deflist>
+  <def name="Player" hp="7" attack="2" defense="0" money="0" exp="0" face="0" category="Living"/>
+  <def name="Dragon" hp="12" attack="4" defense="0" money="9" exp="6" face="4" category="Living" enemy="true"/>
+  <def name="Slime" hp="4" attack="3" defense="0" money="5" exp="3" face="3" category="Living" enemy="true"/>
+  <def name="SlimeRed" hp="10" attack="4" defense="0" money="11" exp="8" face="10" category="Living" enemy="true"/>
+  <def name="Guide" hp="15" attack="5" defense="0" money="0" exp="0" face="30" category="Living" balloon="true" fixedFacing="true"/>
+  <def name="Rabi" hp="12" attack="3" defense="0" money="15" exp="5" face="1" category="Living" balloon="true"/>
+  <def name="Demon" hp="30" attack="12" defense="4" money="5" exp="20" face="23" category="Living" enemy="true"/>
+  <def name="Locked" hp="1" attack="0" defense="30" money="0" exp="0" face="-1" category="Object" fixedFacing="true"/>
+  <def name="Chest" hp="1" attack="0" defense="10" money="0" exp="0" face="-1" category="Object" fixedFacing="true"/>
+  <def name="Statue" hp="1" attack="0" defense="10" money="0" exp="0" face="-1" category="Object" fixedFacing="true"/>
+  <def name="Stay" hp="1" attack="0" defense="10" money="0" exp="0" face="-1" category="Object" fixedFacing="true"/>
+  <def name="Intangible" hp="1" attack="0" defense="10" money="0" exp="0" face="-1" category="Object" fixedFacing="true"/>
+  <def name="Sparkle" hp="1" attack="0" defense="10" money="0" exp="0" face="-1" category="Object" fixedFacing="true"/>
+  <def name="Villager" hp="15" attack="5" defense="0" money="15" exp="8" face="12" category="Living" balloon="true"/>
+  <def name="Villager2" hp="15" attack="5" defense="0" money="15" exp="8" face="13" category="Living" balloon="true"/>
+  <def name="Villager3" hp="15" attack="5" defense="0" money="15" exp="8" face="14" category="Living" balloon="true"/>
+  <def name="Wingman" hp="15" attack="5" defense="0" money="15" exp="8" face="12" category="Living" balloon="true"/>
+  <def name="Human" hp="15" attack="5" defense="0" money="15" exp="8" face="22" category="Living" balloon="true"/>
+  <def name="Thoma" hp="12" attack="3" defense="0" money="5" exp="1" face="2" category="Living" balloon="true"/>
+  <def name="Stone" hp="1" attack="0" defense="30" money="0" exp="0" face="-1" category="Object" fixedFacing="true"/>
+  <def name="Robo" hp="12" attack="3" defense="10" money="0" exp="0" face="11" category="Living" balloon="true"/>
+  <def name="Doctor" hp="12" attack="3" defense="10" money="0" exp="0" face="24" category="Living" balloon="true"/>
+  <def name="Bed" hp="1" attack="0" defense="10" money="0" exp="0" face="-1" category="Object" fixedFacing="true"/>
+  <def name="Pidgen" hp="1" attack="0" defense="0" money="0" exp="0" face="31" category="Object" balloon="true"/>
+</deflist>
+

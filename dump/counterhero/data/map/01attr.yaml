@@ -1,0 +1,11 @@
+type: 1
+hudVisible: true
+noAttack: false
+itemLottery:
+    chest:
+        RandomA: ["Apple", "Arrow", "CobwebBall", "ElecBall"]
+        RandomB: ["GreatApple", "Shield", "Skateboard", "GustGenerator", "Key"]
+        RandomC: ["Watch", "Gps", "WoodTester", "PSTester", "Bomb"]
+    wall:
+        Bush: ["Money", "Money", "Money", "Apple", "Apple", "Apple", "Arrow"]
+role: ["TutorialB", "World1"]

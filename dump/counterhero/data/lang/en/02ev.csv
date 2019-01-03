@@ -1,0 +1,52 @@
+かべだ。,It's a wall.
+タンクのようだ。,Looks like a container.
+コンピューターだ。,It's a computer.
+おお、かえってきた！,"Ah, you've returned!"
+オカエリ！,Welcome back!
+赤い結晶は…みつからなかったか。,So... you couldn't find any Red Crystals?
+赤い結晶は#{Summary_CrystalCount}こみつかったか！,And you found #{Summary_CrystalCount as Ssn} Red Crystal<pl>s</pl>!
+すばらしい！,Simply incredible!
+すごい！赤い結晶を#{Summary_CrystalCount}こもみつけたのか！,You found #{Summary_CrystalCount as Ssn} Red Crystal<pl>s</pl>?! Well done!
+おい、だいじょうぶか！,"Hey, are you all right?"
+うん、だいじょうぶそうだ。,"Good, she should be okay."
+やはりかなりつかれているみたいだ。,It seems she was merely exhausted by the trip.
+ブジデ ヨカッタ。,A reassuring diagnosis.
+ハカセ。,...Professor...
+カノジョハ ニンゲンジャナイノ？,Is she not a human?
+…。,...
+かのじょは ふつうの にんげんじゃない。,"She's human, but not exactly normal."
+とくべつなちが ながれているんだ。,That's because of her unique blood.
+ふしぎなことに そのせいぶんは 赤い結晶に とてもにている…。,"It has a composition like that of the Red Crystals, strangely enough."
+そのちの おかげで 時空をいどうしても ぶじでいられる。,That's what allows her to cross time and space.
+ナルホド。,I understand now.
+だから、かのじょは もとのせかいを とりもどす さいごのきぼうなんだ。,She's our final hope in saving our world.
+赤い結晶を あつめてもらわないと…。,No one else can gather the Red Crystals we need...
+もういちどあそびますか？,Play again?
+このバージョンは これでおわりです！,That's the end of this version!
+すべての 赤い結晶を あつめることが できたのですね！,Congratulations on finding all the Red Crystals!
+すばらしいです！,You're a real pro!
+もし ゲームの つづきが かんせいしたら ぜひ また あそんでほしいです。,Will you play the next chapter when it comes out?
+イェーイ！ うれしいです。,Cool! Thanks a lot!
+それでは また おあいしましょう。,"Well, until then!"
+え…。,...Seriously?
+もちものを ひきついで もういちどあそびますか？,Play again with your inventory carried over?
+あそんでくれて ありがとうございました。,Thanks for playing!
+クリアがめんを ほぞんしますか？,Save a screenshot of the results?
+タイトルに もどりますか？ (もちものは うしなわれます。),Go back to title? (Your inventory will be lost.)
+おはよう。,Good morning.
+じゅんびはいい？,Are you ready for your mission?
+ミッションを かくにんするよ。,Let's review the details:
+きみは #{Doctor_Year0}#{Doctor_Year1}#{Doctor_Year2}#{Doctor_Year3}年前に てんそうされる。,You'll be sent #{Doctor_Year0}#{Doctor_Year1}#{Doctor_Year2}#{Doctor_Year3} years into the past.
+そこで 赤い結晶を さがすんだ。,"Once you're there, find as many Red Crystals as you can."
+#{Doctor_Hour}時間後に こちらにぎゃくてんそうする。,"After #{Doctor_Hour as Ssn} hour<pl>s</pl>, we'll bring you back here."
+いいね？,Do you understand everything?
+よし、それじゃあ、左のそうちに 立ってくれ。,"Good. Now, stand on the device to the left."
+オハヨウ！,Morning greetings.
+ケンコウジョウタイハ ドウカナ,How is your condition?
+…チェックチュウ…,Now scanning...
+OK. モンダイナイデス,No problems detected.
+イッテラッシャイ！ハカセガ マッテルヨ,Please proceed. The Professor is waiting for you.
+ぶじで かえってくるんだよ。,"Come back in one piece, okay?"
+テンソウカイシ！,Initializing teleportation...
+ベッドだ。,It's a bed.
+トビラをあけますか？,Open the door?

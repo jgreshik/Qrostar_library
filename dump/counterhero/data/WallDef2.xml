@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<deflist>
+  <def id="1" name="Wall" defense="12"/>
+  <def id="2" name="Tank" defense="12"/>
+  <def id="3" name="Computer" defense="12"/>
+</deflist>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<deflist>
+  <def name="Crystal" nouse="1"/>
+  <def name="Key" nouse="1"/>
+  <def name="Apple" value="5"/>
+  <def name="GreatApple" value="9"/>
+  <def name="Shield" equip="2" value="1"/>
+  <def name="Skateboard" equip="3" value="2"/>
+  <def name="Sword" equip="1" value="2"/>
+  <def name="DragonSword" equip="1" value="4"/>
+  <def name="Watch" reusable="1"/>
+  <def name="Arrow" shot="1" value="8"/>
+  <def name="Bomb" shot="1"/>
+  <def name="CobwebBall" shot="1"/>
+  <def name="PSTester" shot="1" reusable="1"/>
+  <def name="WoodTester" reusable="1"/>
+  <def name="GustGenerator" shot="1" value="1"/>
+  <def name="ElecBall" shot="1"/>
+  <def name="Gps" reusable="1"/>
+  <def name="StorehouseKey" nouse="1"/>
+</deflist>

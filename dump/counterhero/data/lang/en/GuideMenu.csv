@@ -1,0 +1,26 @@
+ターン,Turns
+"<i kind=""CharaToRight"" subKind=""0""/><sp/><i kind=""Chara"" subKind=""3""/>","<i kind=""CharaToRight"" subKind=""0""/><sp/><i kind=""Chara"" subKind=""3""/>"
+このゲームは ターンせいです。\n1回いどうしたり 1回こうげきすると\n1ターンです。\n\n<mark>自分と てきで こうごに ターンはすすみます。</mark>\nつまり、 自分が うごかなければ てきも\nうごかないので ゆっくりかんがえていいです。\n\n時計は げんざいのじかんを しめしています。\n<mark>1ターンで1分すすみます。</mark>,"This game uses a turn-based system. You can move or act once per turn.\n\n<mark>After your turn, it will be the enemies' turn.</mark> They won't act until you do, so you can wait and plan out strategy.\n\nThe clock shows the present time. Every one of your turns will advance time by one minute.</mark>"
+アイテム,Items
+"アイテムは 左下の <i kind=""SmallBtn"" subKind=""2""/>のボタンから つかえます。\n\n- おもな アイテム -\n\nリンゴ: HPがかいふく\n矢: とおくから てきを こうげき\nソード: そうびすると こうげきが ふえる\nたて: そうびすると まもりが ふえる","Items can be used by clicking the <i kind=""SmallBtn"" subKind=""2""/> button at the lower-left of the screen.\n\nBelow are examples of some items you can find.\n\nApple: Recovers HP.\nArrow: Attacks from a distance.\nSword: Equip to raise your ATK.\nShield: Equip to raise your DEF."
+しぼう,Death
+"<i kind=""CharaDead"" subKind=""0""/>","<i kind=""CharaDead"" subKind=""0""/>"
+HPが0になると しぼうします。\n\nしぬと スタートちてんに もどって、\nステータスや アイテムは リセットされます。,"You will die when your HP reaches 0.\n\nAfter dying, you will be returned to the starting point with all of your stats and items reset."
+もとにもどす,Rewind
+"左下の <i kind=""SmallBtn"" subKind=""0""/>のボタンを おすと\n1ターン前に もどせます。\nいどうも こうげきも アイテムも\nてきも すべてが もどります。\n\n<mark>しんだときも <i kind=""SmallBtn"" subKind=""0""/>を\nおせば しぬまえに もどせます。</mark>\n\nくりかえしおせば けっこうもどせて べんりです。","Clicking the <i kind=""SmallBtn"" subKind=""0""/> button at the lower-left of the screen will rewind time by one turn, undoing moves, attacks, and the use of items.\n\n<mark>It will even undo dying.</mark>\n\nBe sure to take advantage of it in complicated situations."
+キーボードそうさ,Keyboard Controls
+"(きほんは マウスだけで あそべます。)\n\nZ: <i kind=""SmallBtn"" subKind=""0""/>\nX: <i kind=""SmallBtn"" subKind=""1""/>\nC: <i kind=""SmallBtn"" subKind=""2""/>\nV: <i kind=""SmallBtn"" subKind=""4""/>\nやじるしキー: いどう、こうげき\nShift: 赤い結晶をつかう(もっているとき)\nAlt + Enter: フルスクリーンきりかえ\nF2: スクリーンショット","Z: <i kind=""SmallBtn"" subKind=""0""/>\nX: <i kind=""SmallBtn"" subKind=""1""/>\nC: <i kind=""SmallBtn"" subKind=""2""/>\nV: <i kind=""SmallBtn"" subKind=""4""/>\nArrow keys: Move and attack\nShift: Use Red Crystal (when available)\nAlt + Enter: Switch Window Modes\nF2: Take screenshot\n\n(This game can also be played with just the mouse.)"
+ステータス,Stats
+<playerStatus/>,<playerStatus/>
+かべたたき,Stalling
+"木や カベを こうげきすることで\nいどうすることなく 1ターンすすめられます。\n\n<sp/><sp/><i kind=""Wall"" subKind=""1""/><i kind=""EfpAttack""/>\n<sp/><sp/><i kind=""CharaToRight"" subKind=""0""/><sp/><i kind=""Chara"" subKind=""3""/>\n\nてきとの きょりを ちょうせいするのに べんりです。","By attacking walls or trees, you can use a turn without moving.\n\n<sp/><sp/><i kind=""Wall"" subKind=""1""/><i kind=""EfpAttack""/>\n<sp/><sp/><i kind=""CharaToRight"" subKind=""0""/><sp/><i kind=""Chara"" subKind=""3""/>\n\nIt can be useful when trying to control the distance between enemies."
+たからばこ,Treasure
+"<i kind=""Chest"" subKind=""1""/><i kind=""Chest"" subKind=""2""/><i kind=""Chest"" subKind=""3""/>","<i kind=""Chest"" subKind=""1""/><i kind=""Chest"" subKind=""2""/><i kind=""Chest"" subKind=""3""/>"
+"たからばこや しげみから 手に入るアイテムは\nランダムです。\n\nただし、 やりなおしの タイミングで きまるので、\n<i kind=""SmallBtn"" subKind=""0""/>で もどしても なかみは かわりません。\n\nたからばこいがいに ランダムようそは ありません。\n\n色によって 中のアイテムの しゅるいが\nことなります。","Random items will appear from treasure chests or thick grass.\n\nThe kind of item a chest holds depends on its color.\n\nHowever, using Rewind will not change what you find.\n\n(This is the game's only random element.)"
+セーブ,Saving
+セーブされるのは じゅうような\nイベントのみです。,The game will only be saved after key events.
+ミッション,Missions
+"<i kind=""Chara"" subKind=""0""/><sp/><i kind=""Doctor""/><i kind=""Chara"" subKind=""6""/>","<i kind=""Chara"" subKind=""0""/><sp/><i kind=""Doctor""/><i kind=""Chara"" subKind=""6""/>"
+あなたは みらいから てんそうされてきました。\n\nあさ10時にスタートで、 よくあさ7時に\nぎゃくてんそうされます。\nそれまでに 赤い結晶を 手にいれるのが\nこのミッションの もくてきです。\n\n<mark>けっこう むずかしめな ゲームです。</mark>\n<mark>ぜひ ねばりづよく やってみてください。</mark>,"You were teleported from a future time.\n\nFrom 10 in the morning until 7 the next morning, you must collect as many Red Crystals as possible. After 7 o'clock, you will be sent back.\n\n<mark>As this is a somewhat difficult game, perseverance will be your greatest asset.</mark>"
+赤い結晶,Red Crystals
+"テキストに でてくる 数字が\nすべて赤いことに きがつきましたか？\n\n<mark>赤い結晶を 手にいれると、 これらの赤い数字を</mark>\n<mark>クリックで じゆうに いれかえられるようになります。</mark>\n\n<i kind=""crystal""/>\n\n赤い数字の いれかえは むせいげんです。\nうまく数字を いれかえて クリアを めざしましょう。","Did you notice how all of the numbers are written in red text?\n\n<mark>With a Red Crystal, they can be switched around by clicking on them.</mark>\n\n<i kind=""crystal""/>\n\nRearrange them as often as you want. Mastering this skill is key in beating the game."

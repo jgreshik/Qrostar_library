@@ -1,0 +1,165 @@
+まほうのカギをつかいますか？,Use Magic Key?
+カギがかかっている。,It's locked.
+#{ItemText(Arg(0))}を みつけた！,Found #{ItemText(Arg(0))}!
+こんにちは。,Hello.
+ゲームを あそんでくれて ありがとうございます。,Thank you for playing this game.
+そして なんども しなせてしまって すみません…。,Sorry for making you die so many times...
+このゲームは なんどもやりなおして クリアに ちかづいていく。 そんな ゲームなのです…。,But you'll get a little closer to winning each time you do.
+さて。,To help with that...
+ゲームの あそびかたせつめいを ついかしました。,I've added more details to the Instructions.
+"がめんの 左下の <i kind=""SmallBtn"" subKind=""4""/>ボタンから 見れます。","Read them by clicking the <i kind=""SmallBtn"" subKind=""4""/> button to the lower-left."
+それでは！,Good luck!
+じゃーん！,Ta-da!
+こんにちは！,Hello!
+"しっていますか？ <i kind=""SmallBtn"" subKind=""0""/>をおせば しぬ前にも もどることができます。","Did you know that if you press <i kind=""SmallBtn"" subKind=""0""/>, you can rewind time?"
+くりかえしおせば けっこうもどせるので べんりです。,"You can go back quite a few steps and even undo death, so it's very useful."
+ぜひ かつよう してね。,Definitely make use of it.
+ただし…,However...
+あきらめるしかないことも よくあります。,There are some situations that are simply unwinnable.
+なやましいですね。,"Frustrating though they may be, don't get discouraged."
+さて！,Also!
+あたらしい あそびかたの せつめいを ついかしました！,I've added even more tips to the Instructions!
+では！,See you!
+イェーイ！,Marvelous!
+赤い結晶を 見つけたようですね！,It looks like you found a Red Crystal!
+赤い結晶を 手にしたあなたは、 じゆうに すうじを いれかえられるようになりました。,"With it, you can switch numbers around at will!"
+しかも かいすうは むせいげんです。,"There are no limits whatsoever, so don't be afraid to experiment!"
+くわしい せつめいは あそびかたに ついかしたので ぜひ見てください。,"I added more details to the Instructions, so please read it later."
+ではでは！,Have fun!
+Zzz...,Zzz...
+そういえば、 少し前に 山のほうで 男の人を見たんだ。,"Oh yeah, I saw a dude around the mountain a while ago."
+なにしてたんだろう。,Not sure what he was doing there.
+そういえば、 またリンゴ#{Rabi_Apple_Again}こ 見つけたんだけど、,"Check it out, I found #{Rabi_Apple_Again as Ssn} more apple<pl>s</pl>."
+いる？,What's mine is yours if you'll just say the word!
+はい！,Here you go!
+ふーん。,"Oh, okay."
+だっしゅつ！,Time to blow this popsicle stand!
+イェーイ！<dummy/>,Wah-hoo!
+この石は #{StoneWidth()}人で うごかせそうだ。,It probably takes #{StoneWidth() as Ssn} to move that rock.
+この石は #{StoneWidth()}人がかりでないと うごかせなさそうだ。,It looks like we need #{StoneWidth() as Ssn} to move that boulder.
+いっしょにおそう。,Let's give it a shot.
+こまったね…。,Nothing we can do now...
+倉庫っていわれてるけど、 なんの倉庫なんだろうね。,"They call it a vault, but what's inside?"
+ところで 前に 会ったことある？,Haven't we met before?
+そうだよね！,I knew it!
+きのせいか…,"Just my imagination, I guess."
+やあ、リンゴ#{Rabi_Apple}こ ひろったんだ。,"Hey, I got #{Rabi_Apple as Ssn} apple<pl>s</pl>."
+#{Rabi_Apple_Given}こいる？,Do you want #{Rabi_Apple_Given as Ssn}?
+あれ、そんなに 持ってなかった。,"Oops, I don't have that many."
+そうか。,"Oh, all right."
+夜#{Demon_Time}時をすぎると 山からカイブツが おりてくるんだ,The Monster from the mountain will attack again at #{Demon_Time} o'clock tonight...
+あぁ、どうしよう…,What'll we do?
+ぼくは 村から にげてきて ここにかくれてるんだ。,I ran away from the village to hide out here.
+夜になると 村に カイブツが やってくるからね…。,There's no other way to survive the Monster's nightly raids.
+ところで、 倉庫のこと 知ってる？,"Anyway, do you know of the vault?"
+倉庫には おたからが ねむっているんだ。,There's a treasure somewhere inside it.
+ソードをくれたら 倉庫のカギのばしょを おしえてあげるよ。,Get me a sword and I'll tell you where the key is.
+ありがたい！,Thanks a ton!
+倉庫のいりぐちの すぐ左の木に カギは かくしてあるんだ。,The key is inside the tree to the left of the vault's door.
+じゆうにしていいよ。,Help yourself.
+もってないじゃん！,Wait... You don't have a sword!
+倉庫…。,"Well, if you change your mind..."
+わたしは しっている。,I know what's inside the vault.
+倉庫に 赤い結晶が あるんだ。,"It's a Red Crystal! Cool, huh?"
+それがあれば カイブツに かてるかもしれない…。,It might be the secret to beating the Monster.
+でもカギが かかってて はいれないんだ。,The only problem is that the door has a special lock...
+カギは どこにあるんだろうね。,And very few people know where to find the key.
+わたしは この村で 一番の ものしりだ。,I'm the wisest person in the village.
+赤い結晶,Red Crystals
+カイブツ,The Monster
+ドラゴン,Dragons
+北のいえ,North House
+なにか 聞きたいことはあるかい？,Do you have anything to ask me?
+赤い結晶が もたらす力は 手にしたものによって ちがうんだ。,The power of the Red Crystal changes depending on its holder.
+ある人は 空をとべるようになり、,Some people can fly...
+またある人は 火をふけるようになった。,Others will be able to breathe fire...
+ときに きょうだいな 力をえるものもいる。,Even others will obtain incredible strength.
+ふしぎな石だ。,It's truly an enigma.
+カイブツは #{Demon_Time}時を すぎたころに とつじょあらわれ 村のほうへ むかってくる。,"At #{Demon_Time} o'clock tonight, the monster will appear and head towards the village."
+村の左のかべが けずられているのは カイブツのしわざなんだ。,"We fended it off before, but it's growing stronger by the day."
+カイブツの力は 日に日に ましていて、 いずれは この村に とうたつするだろう。,"It damaged the western wall last night, so I fear our remaining time is short."
+あのカイブツも 赤い結晶を もっているのかもしれないな。,Perhaps the rumor that it has a Red Crystal is true...
+ドラゴンは #{Dragon_FireFreq}ターンごとに 火をふくんだ,Dragons will breathe fire every #{Dragon_FireFreq} turn<pl>s</pl>.
+そして 火は #{Dragon_FireLength}マスまで のびる,Their fire has a reach of #{Dragon_FireLength} space<pl>s</pl>.
+横にしか 火をふかないから 上か下から こうげきするといい,"They can't breathe fire up or down though, so you should attack from there."
+北のいえには カギがかかっていたとおもう。,I think the house to the north is locked.
+わかいせいねんが すんでいるんだが、 さいきんは あまり外にでてこないんだ。,"A young man lives there, but he hasn't come out in a while."
+なんだか 村の人を さけているようだ。,He seems to be avoiding us for some reason.
+なにかほしいものある？,Does anything catch your eye?
+まいどありー。,Thanks for the business!
+#{Player_Money}Gしか持ってないじゃない！,You only got #{Player_Money} G!
+またね。,Come again.
+ぶきは そうびしないと いみないよ！,Weapons are pointless unless they're equipped!
+村から すこし下に おりたところに #{VillagerStones_Count}つの石が ならんでいたと思う。,"A little ways south of the village, there <sg>is</sg><pl>are</pl> #{VillagerStones_Count as Ssn} stone<pl>s clustered together</pl>."
+どうも あのあたりに たからものが あるらしいんだ。,I bet there's some kind of treasure there.
+"ところで #{ItemText(""Bomb"")} もってる？","By the way, do you have <_ar>#{ItemText(""Bomb"")}</_ar>?"
+"#{ItemText(""Bomb"")}が あれば かたいかべも こわせるんだ。","With <_ar>#{ItemText(""Bomb"")}</_ar>, you can break walls."
+#{VillagerStones_BombCount}こも もってる！ すごい！,You have #{VillagerStones_BombCount as Ssn}? Nice!
+#{VillagerStones_BombCount}こ もってるんだね。,You have #{VillagerStones_BombCount as Ssn}.
+もってないんだね。,I'd get some if I were you. They might come in handy.
+カイブツをおそれて、みんな村から にげていったんだ。,Everyone's running away from the village because of the Monster.
+もう村には、あと#{Villager_Num}人しかいない…,Our population's down to #{Villager_Num as Ssn} now...
+空を じゆうに とべたらな…。,If only I could fly...
+村からにげてきたんだけど、 そのとちゅうで 赤い石をひろったんだ。,I was running away from the village when I found a shiny red rock.
+そうしたら！ なんと せなかに #{Wingman_Count}まいの はねがはえたんだ。,"When I picked it up, I suddenly had #{Wingman_Count as Ssn} wing<pl>s</pl>!"
+そして なんと！ じゆうに 空を とべるようになったんだ！,"And best of all, I could use them to fly!"
+きれいなだけで なんでもない石だ。,"It's pretty, but it doesn't seem all that special."
+じゃまで しょうがないんだ。 とぶことも できないし。,"Unfortunately, I still can't fly so what's the use?"
+だから この赤い石 きみに あげるよ。,"Here, you can have it."
+なんでもあけられる まほうのカギ ほしい？,Would you like a Magic Key? You can open any door with it!
+#{VillagerKey_Price}Gで 売ってあげるよ？,That'll be #{VillagerKey_Price} G!
+まいどありー,Thanks!
+おかねが たりないじゃん！,You don't have enough money!
+またね！,See you later!
+わたしは この村を カイブツから守るために みはっているんだ。,I'm on guard to protect the village from the Monster.
+でも まったくたたかいに そなえてないんだ。,But I'm not much for fighting yet...
+"わたしは たたかいに そなえて #{Member(""Attack"")}年も くんれんしてきたんだ。","I've been training for #{Member(""Attack"") as Ssn} year<pl>s</pl>."
+わたしには ムリだな。,So I don't stand a chance.
+"だから この#{ItemText(""DragonSword"")} きみに あげるよ。","I'll let you have this #{ItemText(""DragonSword"")}."
+けっして まけることはない！,That brute's as good as dead!
+…。,...
+あぁ…カイブツ…。,Oh... The Monster...
+赤い結晶 見たことある？,Have you seen a Red Crystal?
+持ってる？,Do you have one?
+ちょうだい？,Can you give it to me?
+そうやって みんな うそをつくんだ。,You liar... Why can't anyone ever tell me the truth?
+山で 赤い結晶を みつけたんだ。,I found a Red Crystal in the mountains.
+力が みなぎって すごい…。,It gave me so much power... It was incredible.
+今は もってないよ。,"I hid it in a secret hiding spot, but I can't remember where..."
+みんなに きらわれてる。,Everyone hates me...
+リンゴちょうだい？,Can I have an Apple?
+ありがとう。,Thanks.
+ノナの いいつたえを しってるかい？,Do you know the legend of Nona?
+むかしむかし、 大きな赤い岩が 空にうかんでいた。,"Long ago, a great red stone appeared in the sky."
+人びとの うんめいは すべて その岩によって さだめられていたんだ。,It and it alone ruled over the people like a dictator.
+めがみ「ノナ」は 人びとを その うんめいから かいほうするために、,This was until goddess Nona released them from its power.
+おのを 手にとり 赤い岩を うちくだいたんだ。,"She struck it with a large axe, shattering it into pieces."
+そして くだけちった 赤い岩は せかい中に ちりぢりに なったんだ。,The fragments were then scattered around the world.
+ノナは 赤い岩の のろいにより 石となってしまった。,"Unfortunately, its curse turned Nona into stone..."
+しかし それからというもの、 人びとは じゆうに 生きられるようになった。,But she fulfilled her purpose of giving freedom to all.
+そして ここにある せきぞうが 石になってしまったノナらしいんだ。,It seems the statue here is actually the petrified Nona.
+そんな いいつたえだよ。,"That's how the legend goes, but..."
+ほんとうかどうかは わからないけどね。,If only we knew if it were true or not...
+リアルな せきぞうだ。,It's a realistic statue.
+つめたい 風が ふきはじめた…。,A cold wind begins to blow...
+"#{ItemText(""StorehouseKey"")}を みつけた。","Found <_ar>#{ItemText(""StorehouseKey"")}</_ar>."
+"#{ItemText(""StorehouseKey"")}を つかいますか？","Use <_ar>#{ItemText(""StorehouseKey"")}</_ar>?"
+"#{ItemText(""Key"")}を つかいますか？","Use <_ar>#{ItemText(""Key"")}</_ar>?"
+せーの！,"Ready, set, push!"
+うごかしますか？,Move the rock?
+おもくてうごかせない。,It's too heavy to move.
+どこからか こえが きこえる…,You heard a voice from somewhere...
+きこえるか？ハカセだ。,This is the Professor. Are you reading me?
+まもなくラボに てんそうする。,I'm about to transfer you back to the lab.
+テンソウヲ カイシシマス。,Initializing teleportation...
+どこからか こえが 聞こえる…,You heard a voice from the air...
+こっちへおいで…,Come here...
+おいで…,Follow my voice...
+おまえに 力を さずけよう…,I'll give you power...
+赤い結晶を みつけた！,Found a Red Crystal!
+とくべつな力を えた！,You obtained a special skill!
+ああ、 ぼくは ここで カイブツを みるために まちぶせているんだ。,I'm waiting here to watch out the Monster.
+だいじょうぶ。 すぐに にげるよ。,"Don't worry, I'll run away as soon as it appears."
+倉庫のカギのばしょ おしえるよ？,Want me to tell you where the vault key is?
+倉庫のいりぐちの すぐ左の木に カギは あるらしいんだ。,I heard it's in the tree to the left of the door.
+だいじな じょうほうだよ。,Be sure to keep that in mind.

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="160" height="90" tilewidth="2" tileheight="2" nextobjectid="58">
+ <objectgroup name="Layer">
+  <object id="20" name="PlayerStatus" x="24" y="32" width="6" height="6"/>
+  <object id="23" name="Lv" type="Label" x="-2" y="10" width="6" height="6">
+   <properties>
+    <property name="scale" type="float" value="0.5"/>
+   </properties>
+  </object>
+  <object id="25" name="Exp" type="Label" x="24" y="4" width="6" height="6">
+   <properties>
+    <property name="scale" type="float" value="0.5"/>
+   </properties>
+  </object>
+  <object id="26" name="NextExp" type="Label" x="74" y="0" width="66" height="20">
+   <properties>
+    <property name="scale" type="float" value="0.5"/>
+    <property name="vAlign" type="int" value="2"/>
+   </properties>
+  </object>
+  <object id="27" name="LvArrowBegin" x="8" y="16" width="2" height="2"/>
+  <object id="28" name="LvArrowEnd" x="26" y="32" width="2" height="2"/>
+  <object id="29" name="Money" type="Label" x="130" y="28" width="6" height="6">
+   <properties>
+    <property name="scale" type="float" value="0.5"/>
+   </properties>
+  </object>
+  <object id="30" name="Attack" type="Label" x="82" y="94" width="6" height="6">
+   <properties>
+    <property name="scale" type="float" value="0.5"/>
+   </properties>
+  </object>
+  <object id="31" name="AttackAddition" type="Label" x="100" y="70" width="6" height="6">
+   <properties>
+    <property name="scale" type="float" value="0.5"/>
+   </properties>
+  </object>
+  <object id="32" name="Defense" type="Label" x="106" y="28" width="6" height="6">
+   <properties>
+    <property name="scale" type="float" value="0.5"/>
+   </properties>
+  </object>
+  <object id="33" name="Hp" type="Label" x="26" y="64" width="6" height="6">
+   <properties>
+    <property name="scale" type="float" value="0.5"/>
+   </properties>
+  </object>
+  <object id="34" name="MaxHp" type="Label" x="48" y="74" width="6" height="6">
+   <properties>
+    <property name="scale" type="float" value="0.5"/>
+   </properties>
+  </object>
+  <object id="35" name="ExpArrowBegin" x="36" y="10" width="2" height="2"/>
+  <object id="36" name="ExpArrowEnd" x="56" y="32" width="2" height="2"/>
+  <object id="37" name="NextExpArrowBegin" x="76" y="18" width="2" height="2"/>
+  <object id="38" name="NextExpArrowEnd" x="70" y="34" width="2" height="2"/>
+  <object id="39" name="MoneyArrowBegin" x="138" y="74" width="2" height="2"/>
+  <object id="40" name="MoneyArrowEnd" x="124" y="76" width="2" height="2"/>
+  <object id="42" name="AttackArrowBegin" x="90" y="90" width="2" height="2"/>
+  <object id="43" name="AttackArrowEnd" x="88" y="44" width="2" height="2"/>
+  <object id="44" name="AttackAdditionArrowBegin" x="104" y="66" width="2" height="2"/>
+  <object id="45" name="AttackAdditionArrowEnd" x="98" y="44" width="2" height="2"/>
+  <object id="46" name="HpArrowBegin" x="36" y="62" width="2" height="2"/>
+  <object id="47" name="HpArrowEnd" x="58" y="52" width="2" height="2"/>
+  <object id="48" name="MaxHpArrowBegin" x="70" y="70" width="2" height="2"/>
+  <object id="49" name="MaxHpArrowEnd" x="74" y="54" width="2" height="2"/>
+  <object id="50" name="DefenseArrowBegin" x="116" y="84" width="2" height="2"/>
+  <object id="51" name="DefenseArrowEnd" x="104" y="84" width="2" height="2"/>
+ </objectgroup>
+</map>

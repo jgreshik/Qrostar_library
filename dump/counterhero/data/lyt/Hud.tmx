@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="160" height="90" tilewidth="2" tileheight="2" nextobjectid="20">
+ <objectgroup name="Hud">
+  <object id="1" name="Lv" x="2" y="2" width="10" height="8"/>
+  <object id="5" name="Hp" x="2" y="12" width="64" height="10"/>
+  <object id="6" name="Watch" x="288" y="0" width="32" height="32"/>
+ </objectgroup>
+ <objectgroup name="Btn">
+  <object id="11" name="Bag" x="38" y="162" width="16" height="16"/>
+  <object id="15" name="Undo" x="2" y="162" width="16" height="16"/>
+  <object id="16" name="Redo" x="20" y="162" width="16" height="16"/>
+  <object id="17" name="Menu" x="56" y="162" width="16" height="16"/>
+  <object id="18" name="Dstock" x="2" y="24" width="64" height="10"/>
+  <object id="19" name="Exp" x="20" y="2" width="28" height="8"/>
+ </objectgroup>
+</map>

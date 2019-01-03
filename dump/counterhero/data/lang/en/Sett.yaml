@@ -1,0 +1,9 @@
+Font:
+    1: [data/lang/en/1, 0.5]
+Po:
+    00ev: data/lang/en/00ev.csv
+    01ev: data/lang/en/01ev.csv
+    02ev: data/lang/en/02ev.csv
+    Item: data/lang/en/Item.csv
+    Main: data/lang/en/Main.csv
+    GuideMenu: data/lang/en/GuideMenu.csv

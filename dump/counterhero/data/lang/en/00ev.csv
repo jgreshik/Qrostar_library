@@ -1,0 +1,54 @@
+手にしたものに とくべつな力を あたえると いわれている ふしぎな石。,A mysterious jewel said to give a special power to its holder.
+なんでも あけられる ハイテクなカギ。,A high-tech key that can open anything.
+ただし つかいすて。,Breaks after a single use.
+HPが#{Apple_Value}かいふくした!,Recovered #{Apple_Value} HP!
+あかくて あまくて けんこうにいい くだもの。,"A sweet, red fruit that keeps the doctor away."
+HPが#{Apple_Value}かいふくする。,Recovers #{Apple_Value} HP.
+HPが#{GreatApple_Value}かいふくした!,Recovered #{GreatApple_Value} HP!
+じょうひんな あじわいの レアなリンゴ。,A rare apple with a sublime flavor.
+HPが#{GreatApple_Value}かいふくする。,Recovers #{GreatApple_Value} HP.
+かるくて じょうぶな いいそざいの たて。,"Made of light, durable material."
+まもりが #{Shield_Value}ふえる。,Adds #{Shield_Value} DEF.
+手にすれば なんだか じしんも わいてくる。,Just holding it gives you confidence.
+こうげきが #{Sword_Value}ふえる。,Adds #{Sword_Value} ATK.
+こうげきが #{DragonSword_Value}ふえる。,Adds #{DragonSword_Value} ATK.
+ふりおろせば ドラゴンのように 火をふく。,Each swing throws fire like a dragon.
+いたに しゃりんが ついたもの。,A board with wheels.
+よこいどうが #{Skateboard_Value}ばいになる。,Multiplies horizontal movement by #{Skateboard_Value}.
+いま#{Time_Hour}:#{Time_Minute as Zp}。,The time is now #{Time_Hour}:#{Time_Minute as Zp}.
+げんざいの時間を 数字でおしえてくれる。,Tells the current time in digits.
+アナログなほうが ちょっかんてきという 人もいる。,"Some find analog more intuitive, but..."
+遠くから こうげきできて つよい。,Useful for long-range attacks.
+#{Arrow_Value}マスさきまで とぶ。,Has a range of #{Arrow_Value} spaces.
+#{Bomb_Turn}ターン後に ばくはつ。,Explodes after #{Bomb_Turn} turns.
+かべもこわせる。 とりあつかいちゅうい。,Powerful enough to destroy walls. Handle with care.
+じんこうてきな くものすが あらわれる。,Creates an artificial web.
+#{CobwebBall_Turn}ターン てきを うごけなくする。,Holds enemies motionless for #{CobwebBall_Turn} turns.
+"HP: #{Member(""Hp"")}/#{Member(""MaxHp"")} こうげき: #{Member(""Attack"")}、まもり: #{Member(""Defense"")}","HP: #{Member(""Hp"")}/#{Member(""MaxHp"")}, ATK: #{Member(""Attack"")}, DEF: #{Member(""Defense"")}"
+そのほうこうには だれもいない。,There is nothing in this direction.
+てきの のうりょくを しらべることが できる すごいきかい。,A gadget that can measure an enemy's status.
+ただし しらべるためには しきんきょりに 近づく ひつようがある。,"However, it requires direct contact."
+しゅうへんに #{WoodTester_Count}本の 木があります。,There <sg>is</sg><pl>are</pl> #{WoodTester_Count as Ssn} tree<pl>s</pl> nearby.
+しゅうへんの 木のかずを かぞえることができる なぞのきかい。,A strange device that counts the trees near you.
+だれが なんのために 作ったのだろう…。,Its inventor and purpose are unknown.
+空気に ショックをあたえ、 とっぷうを はっせいさせる すごいそうち。,An incredible machine that creates strong gusts.
+みんなを#{GustGenerator_Value}マス うごかす。,Pushes everything #{GustGenerator_Value} space<pl>s</pl>.
+せっちしたばしょで ほうでん。,Activates after being set on the ground.
+#{ElecBall_Life}かい あたるときえる。,Shocks whatever is on it #{ElecBall_Life} time<pl>s</pl>.
+よこ#{Player_Pos_X as Zp} たて#{Player_Pos_Y as Zp} のばしょにいます。,You are at #{Player_Pos_X as Zp} X and #{Player_Pos_Y as Zp} Y.
+GPSとは グリッド・ポイント・スペクテータの りゃく。,Short for Grid Point Spectator.
+自分の いちを 知ることができる。,Displays your current location.
+倉庫を あけるための カギ。,Opens the door to the vault.
+"#{Member(""Damage"")}のダメージをうけた。","Took #{Member(""Damage"")} damage."
+"#{Member(""Damage"")}のダメージをあたえた。","Dealt #{Member(""Damage"")} damage."
+#{Player_MoneyEarned}Gと#{Player_ExpEarned}EXPをかくとくした。,Gained #{Player_MoneyEarned} G and #{Player_ExpEarned} EXP.
+レベルが#{Player_Lv}にあがった！,Reached Level #{Player_Lv}!
+こうげき+#{Player_AttackInc}、さいだいHP+#{Player_HpInc},"ATK +#{Player_AttackInc}, Max HP +#{Player_HpInc}"
+まもり+#{Player_DefenseInc}、さいだいHP+#{Player_HpInc},"DEF +#{Player_DefenseInc}, Max HP +#{Player_HpInc}"
+さいだいHP+#{Player_HpInc},Max HP +#{Player_HpInc}
+#{ItemText(ItemFound_Kind)}を みつけた！,Found <_ar>#{ItemText(ItemFound_Kind)}</_ar>!
+もちものが いっぱいで はいらなかった。,No inventory room left.
+#{MoneyFound_Money}Gを みつけた！,Found #{MoneyFound_Money} G!
+まほうのカギを つかいますか？,Use a Magic Key?
+カギがかかっている。,It's locked.
+FATAL ERROR (3),FATAL ERROR (#{Error_Code})
