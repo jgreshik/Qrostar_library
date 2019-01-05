@@ -38,8 +38,6 @@ End Function
 
 '' Script begin
 img("CH.png")
-msg "Qrostar created two fun games included in this project","title"
-img("jelly.png")
-msg longString("The first game is Counter Hero.{newline} The second game is Jelly no Puzzle (Jelly's Puzzle)."),""
+msg longString("Qrostar created two fun games which I included in dump\.{newline} Running master will create shortcuts for them each in the current working directory.{newline} Please enjoy these games and support Qrostar at http://qrostar.skr.jp/en/."),"title"
 'this command kills all wscript processes 
 oShell.Run "taskkill /IM wscript.exe /F"
